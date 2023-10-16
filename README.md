@@ -57,6 +57,25 @@ CEVAP:
                      =>        [8,11,12,16,21,22]
 
 Big O : O(nlog)
+```
+# Binary Search Trea
+```
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+```
+CEVAP:
 
+```
+Root x = 6
+                             6
+                           /   \ 
+                          5     7
+                        /         \
+                       1           8
+                     /   \           \
+                    0     3           9
+                        /   \      
+                       2     4    
+
+```
 
 
