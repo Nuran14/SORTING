@@ -1,4 +1,4 @@
-# Sort-Selection
+# Selection-Sort
          S1:                   [22,27,16,2,18,6]
 a) Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
